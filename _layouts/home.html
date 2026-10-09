@@ -28,6 +28,15 @@ layout: default
       <div class="col-lg-8 col-md-10 mx-auto">
 
         {{ content }}
+        <div class="text-center mb-4">
+          <img src="{{ '/img/marco.jpg' | relative_url }}" alt="Marco Pereira" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+        </div>
+        
+        <p>Olá, o meu nome é Marco Pereira e este é o diário da minha tese de mestrado em [curso], na [universidade].</p>
+        
+        <p>O meu trabalho foca-se em [tema da tese]. Neste blog vou registar, semana a semana, o que vou fazendo, os problemas que encontro e como os resolvo.</p>
+        
+        <hr>
 
         <!-- Home Post List -->
         {% for post in site.posts limit : 5 %}
