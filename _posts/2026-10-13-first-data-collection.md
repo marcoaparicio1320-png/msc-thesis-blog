@@ -115,14 +115,26 @@ author: "Marco Pereira"
 
 <p>This led to the second acquisition phase, which kept the same procedure but started at 1.2 m (confirm) and went up to 2.2 m (confirm). This phase was used to collect images of some apple and pear trees affected by <em>Stemphylium vesicarium</em> (brown spot).</p>
 
+<style>
+  .leaf-gallery { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 1fr) minmax(0, 1fr); gap: 8px; margin: 2rem 0 0.5rem; max-width: 100%; }
+  .leaf-gallery .cell { position: relative; overflow: hidden; min-width: 0; }
+  .leaf-gallery .cell img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; max-width: none; object-fit: cover; }
+  .leaf-gallery .large { grid-row: span 2; }
+  .leaf-gallery .small { aspect-ratio: 3 / 4; }
+  @media (max-width: 600px) {
+    .leaf-gallery { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+    .leaf-gallery .large { grid-column: 1 / -1; grid-row: auto; aspect-ratio: 1 / 1; }
+  }
+</style>
+ 
 <figure style="margin: 0 0 2rem;">
   <div class="leaf-gallery">
     <div class="cell large">
-      <img src="{{ site.baseurl }}/img/VisitaINIAV/10.jpeg"
+      <img src="{{ site.baseurl }}/img/VisitaINIAV/13.jpeg"
            alt="Apple leaf with a yellow-green area and many dark, well-defined lesions">
     </div>
     <div class="cell small">
-      <img src="{{ site.baseurl }}/img/VisitaINIAV/11.jpeg"
+      <img src="{{ site.baseurl }}/img/VisitaINIAV/10.jpeg"
            alt="Close-up of an apple leaf with dark, velvety spots scattered across the surface">
     </div>
     <div class="cell small">
@@ -130,11 +142,11 @@ author: "Marco Pereira"
            alt="Underside of an apple leaf with olive-green blotches between the veins">
     </div>
     <div class="cell small">
-      <img src="{{ site.baseurl }}/img/VisitaINIAV/13.jpeg"
+      <img src="{{ site.baseurl }}/img/VisitaINIAV/14.jpeg"
            alt="Apple leaves seen from below against the sky, with darker patches on the underside">
     </div>
     <div class="cell small">
-      <img src="{{ site.baseurl }}/img/VisitaINIAV/14.jpeg"
+      <img src="{{ site.baseurl }}/img/VisitaINIAV/11.jpeg"
            alt="Apple leaf with a few small lesions and a bluish powdery residue on the surface">
     </div>
   </div>
