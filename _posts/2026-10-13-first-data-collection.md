@@ -118,23 +118,23 @@ author: "Marco Pereira"
 <figure style="margin: 0 0 2rem;">
   <div class="leaf-gallery">
     <div class="cell large">
-      <img src="{{ site.baseurl }}/img/diseased-leaf-1.jpg"
+      <img src="{{ site.baseurl }}/img/VisitaINIAV/10.jpeg"
            alt="Apple leaf with a yellow-green area and many dark, well-defined lesions">
     </div>
     <div class="cell small">
-      <img src="{{ site.baseurl }}/img/diseased-leaf-2.jpg"
+      <img src="{{ site.baseurl }}/img/VisitaINIAV/11.jpeg"
            alt="Close-up of an apple leaf with dark, velvety spots scattered across the surface">
     </div>
     <div class="cell small">
-      <img src="{{ site.baseurl }}/img/diseased-leaf-3.jpg"
+      <img src="{{ site.baseurl }}/img/VisitaINIAV/12.jpeg"
            alt="Underside of an apple leaf with olive-green blotches between the veins">
     </div>
     <div class="cell small">
-      <img src="{{ site.baseurl }}/img/diseased-leaf-4.jpg"
+      <img src="{{ site.baseurl }}/img/VisitaINIAV/13.jpeg"
            alt="Apple leaves seen from below against the sky, with darker patches on the underside">
     </div>
     <div class="cell small">
-      <img src="{{ site.baseurl }}/img/diseased-leaf-5.jpg"
+      <img src="{{ site.baseurl }}/img/VisitaINIAV/14.jpeg"
            alt="Apple leaf with a few small lesions and a bluish powdery residue on the surface">
     </div>
   </div>
