@@ -44,16 +44,71 @@ author: "Marco Pereira"
 
 <figure style="margin: 2rem 0;">
   <div style="display: flex; gap: 8px;">
-    <img src="{{ site.baseurl }}/VisitaINIAV/6.jpg"
+    <img src="{{ site.baseurl }}/VisitaINIAV/6.jpeg"
          alt="Close-up of an apple tree with red fruit and green leaves"
          style="flex: 1 1 0; min-width: 0; width: 100%; aspect-ratio: 3 / 4; object-fit: cover;">
-    <img src="{{ site.baseurl }}//VisitaINIAV/5.jpg"
+    <img src="{{ site.baseurl }}//VisitaINIAV/5.jpeg"
          alt="Row of apple trees under protective netting, seen from the middle of the aisle"
          style="flex: 1 1 0; min-width: 0; width: 100%; aspect-ratio: 3 / 4; object-fit: cover;">
-    <img src="{{ site.baseurl }}//VisitaINIAV/7.jpg"
+    <img src="{{ site.baseurl }}//VisitaINIAV/7.jpeg"
          alt="Row of apple trees under protective netting with the sun in the frame"
          style="flex: 1 1 0; min-width: 0; width: 100%; aspect-ratio: 3 / 4; object-fit: cover;">
   </div>
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; font-style: italic;">Apple trees under protective netting at the INIAV orchards in Alcobaça.</figcaption>
 </figure>
 
+<h2>Data Acquisition</h2>
+ 
+<p>After taking a closer look at the conditions in the orchard, the acquisition method had to be reassessed, since the space between rows of trees was limited to about 3 m. A first test was therefore carried out to work out the best way to acquire the data.</p>
+ 
+<style>
+  .data-table-wrap { overflow-x: auto; margin: 2rem 0; }
+  .data-table { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+  .data-table caption { caption-side: top; text-align: left; font-style: italic; padding-bottom: 0.5rem; }
+  .data-table th, .data-table td { text-align: left; vertical-align: top; padding: 0.5rem 0.75rem; border-bottom: 1px solid rgba(128, 128, 128, 0.4); }
+  .data-table thead th { border-bottom: 2px solid rgba(128, 128, 128, 0.6); }
+</style>
+ 
+<div class="data-table-wrap">
+  <table class="data-table">
+    <caption>Table 1: Initial plan versus actual acquisition.</caption>
+    <thead>
+      <tr>
+        <th></th>
+        <th>Initial plan</th>
+        <th>Actual acquisition</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">Distance</th>
+        <td>50 cm to 5 m</td>
+        <td>1 m to 3 m (first test), then about 1.2 m to 2.2 m </td>
+      </tr>
+      <tr>
+        <th scope="row">Angles</th>
+        <td>-15º to +15º</td>
+        <td>-60º to +60º, in 30º steps</td>
+      </tr>
+      <tr>
+        <th scope="row">Reason for the change</th>
+        <td>n/a</td>
+        <td>Space between rows limited to about 3 m</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+ 
+<p>The first acquisition started about 1 m from the tree trunk and 1.5 m above the ground, increasing the distance in 50 cm steps up to 3 m. At each position, 5 photos were taken at angles from -60º to 60º in 30º steps. Then, again at 1 m from the trunk, 1 photo was taken 20 cm above the ground at a 30º angle and 1 photo at about 2 m height at a -30º angle. After this acquisition, the images were inspected on site, which showed that 1 m was too close and 3 m was too far. So, to speed up the process, a cane marked at 20 cm intervals was used as a ruler.</p>
+
+<figure style="margin: 2rem 0;">
+  <div style="display: flex; gap: 8px;">
+    <img src="{{ site.baseurl }}/VisitaINIAV/9.jpeg"
+         alt="Data acquisition at 1m from the three"
+         style="flex: 1 1 0; min-width: 0; width: 100%; aspect-ratio: 3 / 4; object-fit: cover;">
+    <img src="{{ site.baseurl }}//VisitaINIAV/8.jpeg"
+         alt="Data acquisition at 20cm from the ground with 30º angle"
+         style="flex: 1 1 0; min-width: 0; width: 100%; aspect-ratio: 3 / 4; object-fit: cover;">
+  </div>
+  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; font-style: italic;">First acquisition.</figcaption>
+</figure>
