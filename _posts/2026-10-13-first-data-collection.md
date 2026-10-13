@@ -37,3 +37,10 @@ author: "Marco Pereira"
        style="max-width:100%;">
   <figcaption>Different sections of the INIAV orchards in Alcobaça.</figcaption>
 </figure>
+
+<p>The INIAV staff member who hosted us explained quite a few aspects of the orchards and the diseases found there, as well as the main problems associated with those diseases. They also mentioned some projects already carried out in the orchards using drones equipped with multispectral cameras, but in areas other than early disease detection.</p>
+
+<p>This same staff member suggested that we also collect images of the clones. These will be used in this project as a dataset of healthy leaves, but could later help us understand whether different clones have different spectral signatures, making it possible to identify the clone before the tree bears fruit.</p>
+
+
+
