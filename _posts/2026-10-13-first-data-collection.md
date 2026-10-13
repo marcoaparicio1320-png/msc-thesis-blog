@@ -3,6 +3,7 @@ layout: post
 title: "First data collection at INIAV"
 subtitle: "Acquiring multispectral images of apple and pear trees in a real orchard environment"
 author: "Marco Pereira"
+background: '/img/Fundo_Home_1.jpg'
 ---
 
 
