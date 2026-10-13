@@ -184,7 +184,7 @@ author: "Marco Pereira"
     </tbody>
   </table>
 </div>
- 
+
 <p>In total, more than 600 images were collected for each of the spectra. Each image will later be split into several images by tree region, which increases the size of the dataset by at least 10 times.</p>
  
 <p>After the acquisition, some of the results were inspected, and they were not satisfactory in RGB: the vast majority of the images were either very blurry or, because of the natural lighting, did not allow the content to be made out. The cause of the blur has not yet been identified. However, when the same images are viewed in other spectra, they show some quality, which will allow us to start working in more depth on this dataset.</p>
