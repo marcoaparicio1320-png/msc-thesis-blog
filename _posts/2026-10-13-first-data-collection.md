@@ -42,5 +42,18 @@ author: "Marco Pereira"
 
 <p>This same staff member suggested that we also collect images of the clones. These will be used in this project as a dataset of healthy leaves, but could later help us understand whether different clones have different spectral signatures, making it possible to identify the clone before the tree bears fruit.</p>
 
-
+<figure style="margin: 2rem 0;">
+  <div style="display: flex; gap: 8px;">
+    <img src="{{ site.baseurl }}/VisitaINIAV/6.jpg"
+         alt="Close-up of an apple tree with red fruit and green leaves"
+         style="flex: 1 1 0; min-width: 0; width: 100%; aspect-ratio: 3 / 4; object-fit: cover;">
+    <img src="{{ site.baseurl }}//VisitaINIAV/5.jpg"
+         alt="Row of apple trees under protective netting, seen from the middle of the aisle"
+         style="flex: 1 1 0; min-width: 0; width: 100%; aspect-ratio: 3 / 4; object-fit: cover;">
+    <img src="{{ site.baseurl }}//VisitaINIAV/7.jpg"
+         alt="Row of apple trees under protective netting with the sun in the frame"
+         style="flex: 1 1 0; min-width: 0; width: 100%; aspect-ratio: 3 / 4; object-fit: cover;">
+  </div>
+  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; font-style: italic;">Apple trees under protective netting at the INIAV orchards in Alcobaça.</figcaption>
+</figure>
 
