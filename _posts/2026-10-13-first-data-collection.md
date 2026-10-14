@@ -114,7 +114,7 @@ background: '/img/Fundo_Home_1.jpg'
   <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; font-style: italic;">First acquisition.</figcaption>
 </figure>
 
-<p>This led to the second acquisition phase, which kept the same procedure but started at 1.2 m (confirm) and went up to 2.2 m (confirm). This phase was used to collect images of some apple and pear trees affected by <em>Stemphylium vesicarium</em> (brown spot).</p>
+<p>This led to the second acquisition phase, which kept the same procedure but started at 1 m and went up to 2 m. This phase was used to collect images of some apple and pear trees affected by <em>Stemphylium vesicarium</em> (brown spot).</p>
 
 <style>
   .leaf-gallery { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 1fr) minmax(0, 1fr); gap: 8px; margin: 2rem 0 0.5rem; max-width: 100%; }
@@ -183,16 +183,16 @@ background: '/img/Fundo_Home_1.jpg'
       <tr>
         <th scope="row">2a. Diseased trees</th>
         <td>Apple and pear trees affected by <em>Stemphylium vesicarium</em> (brown spot)</td>
-        <td>1.2 m to 2.2 m <strong>(confirm)</strong></td>
-        <td>1.5 m <strong>(confirm)</strong></td>
+        <td>1 m to 2 m</td>
+        <td>1.5 m</td>
         <td>-60º to 60º, in 30º steps</td>
         <td>Cane used as a ruler, marked every 20 cm</td>
       </tr>
       <tr>
         <th scope="row">2b. Healthy trees</th>
         <td>Healthy trees with different nutrient regimes</td>
-        <td>1.2 m to 2.2 m <strong>(confirm)</strong></td>
-        <td>1.5 m <strong>(confirm)</strong></td>
+        <td>1 m to 2 m</td>
+        <td>1.5 m</td>
         <td>-60º to 60º, in 30º steps</td>
         <td>Healthy plant data for model training</td>
       </tr>
