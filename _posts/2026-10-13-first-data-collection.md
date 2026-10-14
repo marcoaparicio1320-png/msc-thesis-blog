@@ -198,7 +198,7 @@ background: '/img/Fundo_Home_1.jpg'
       </tr>
       <tr>
         <th scope="row">3. Clones</th>
-        <td>3 trees of each clone <strong>(confirm)</strong></td>
+        <td>3 trees of each clone</td>
         <td>1.5 m and 2 m</td>
         <td>60 cm, 1.5 m, 1.8 m and 2.2 m</td>
         <td>No variation in angle</td>
